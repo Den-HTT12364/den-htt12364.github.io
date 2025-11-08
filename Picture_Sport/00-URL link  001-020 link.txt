@@ -4,10 +4,14 @@ Picture sport
 001
 https://github.com/Den-HTT12364/den-htt12364.github.io/blob/main/Picture_Sport/001.jpg
 https://github.com/Den-HTT12364/den-htt12364.github.io/blob/main/Picture_Sport/001.jpg?v=1
+https://den-htt12364.github.io/Picture_Sport/001.jpg
+https://den-htt12364.github.io/Picture_Sport/001.jpg?v=1
 
 002
 https://github.com/Den-HTT12364/den-htt12364.github.io/blob/main/Picture_Sport/002.jpg
 https://github.com/Den-HTT12364/den-htt12364.github.io/blob/main/Picture_Sport/002.jpg?v=1
+https://den-htt12364.github.io/Picture_Sport/002.jpg
+https://den-htt12364.github.io/Picture_Sport/002.jpg?v=1
 
 003
 https://github.com/Den-HTT12364/den-htt12364.github.io/blob/main/Picture_Sport/003.jpg
@@ -170,3 +174,4 @@ https://drive.google.com/uc?export=download&id=12c4hBeSvLj_q41fFEx4HtUrAbIOZhAOb
 020
 https://drive.google.com/file/d/1qE7f8oHhCSi7s1yr_fA2fns2XkJfbEy3/view?usp=drive_link
 https://drive.google.com/uc?export=download&id=1qE7f8oHhCSi7s1yr_fA2fns2XkJfbEy3&v=1
+
